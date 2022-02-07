@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AyWicho
+- 👋 Hi, I’m @LuisMal
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning CS50 and Python
 - 💞️ I’m looking to collaborate on anything lol
