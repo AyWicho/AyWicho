@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LuisMal
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning CS50 and Python
+- 🌱 I’m currently learning with 100devs
 - 💞️ I’m looking to collaborate on anything lol
-- 📫 How to reach me ... lmalm.iv on ig
 
 <!---
 AyWicho/AyWicho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
