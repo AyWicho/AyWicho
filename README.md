@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LuisMal
-- 👀 Software Engineer with #100Devs
+- 👋 Hi, I’m @LuisMal from Tijuana, Mex.
+- 👀 Software Engineer at @100Devs
 - 💞️ I’m looking to collaborate on anything 
 
 <!---
