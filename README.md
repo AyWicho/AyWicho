@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LuisMal
-- 👀 I’m interested in CS
-- 🌱 I’m currently learning with 100devs
+- 👀 Software Engineer with #100Devs
 - 💞️ I’m looking to collaborate on anything 
 
 <!---
